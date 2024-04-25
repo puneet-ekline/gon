@@ -1,6 +1,6 @@
 **Archived:** I unfortunately no longer make active use of this project
 and haven't properly maintained it since early 2022. I welcome anyone to
-fork and take over this project. 
+fork and take over this project. Take a look at: https://github.com/Bearer/gon
 
 -----------------------------------------------------
 
